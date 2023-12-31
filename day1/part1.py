@@ -3,7 +3,6 @@ file = open("../input.txt", "r")
 totalValue = 0
 
 while True:
-	# do stuff here
 	content=file.readline()
 	if not content:
 		break
